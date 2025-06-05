@@ -34,10 +34,13 @@
 
 💌 Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/pedro-p-27219226b/), no [Instagram](https://www.instagram.com/o_ph_jordao/) ou enviar um e-mail para [phjordao2522@gmail.com].  
 📌 Costumo compartilhar conteúdos sobre tecnologia, além de desafios que estou participando ou concluindo.
-![Luffy says hi](https://gifdb.com/images/featured/luffy-am88vo5oczuk7eu9.gif)
+
 
 
 ---
 
 Obrigado por visitar meu perfil! 🚀
-#VAMOSS!!
+
+
+![Luffy says hi](https://gifdb.com/images/featured/luffy-am88vo5oczuk7eu9.gif)
+# #VAMOSS!!
