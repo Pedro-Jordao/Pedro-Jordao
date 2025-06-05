@@ -38,6 +38,9 @@
 
 
 ---
+![Pedro-Jordao GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedro-Jordao&show_icons=true&theme=radical)
+
+
 
 Obrigado por visitar meu perfil! 🚀
 
