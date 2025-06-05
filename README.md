@@ -1,4 +1,7 @@
-# 👋 Sobre mim
+<center> <h1>Bem vindos ao meu GitHub</h1> </center>
+
+
+  <center> <h2> Sobre mim </h2> </center>
 
 👨‍💻 Desenvolvedor apaixonado por Python, Azure e tecnologias de nuvem.  
 🌩️ Explorando Inteligência Artificial no Azure, sempre buscando aprender mais.  
@@ -9,8 +12,7 @@
 
 ---
 
-# 🚀 Tecnologias e Ferramentas
-
+<center><h2> Tecnologias e ferramentas </h2> </center>
 - **Linguagens conhecidas e utilizadas no meu ___GitHub___:** Python, JavaScript, TypeScript, HTML, CSS, Java.
 - **Frameworks conhecidos e utilizados no meu ___GitHub___:** Angular, Bootstrap, SpringBoot.
 - **Cloud:** Microsoft Azure, com foco em serviços de Inteligência Artificial.
