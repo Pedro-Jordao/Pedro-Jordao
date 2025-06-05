@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Sobre mim
 
-<!--
-**Pedro-Jordao/Pedro-Jordao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Desenvolvedor apaixonado por Python, Azure e tecnologias de nuvem.  
+🌩️ Explorando Inteligência Artificial no Azure, sempre buscando aprender mais.  
+🏆 Engajado em bootcamps e desafios de programação para aprimorar minhas habilidades e me manter atualizado.  
+🏹 Fã de *Lord of the Rings* e *One Piece* 🐐 — amante de boas aventuras!  
+🔧 Meus pronomes: ele/dele.  
+### 🗒️ Recado: Visite meu [LinkedIn](https://www.linkedin.com/in/pedro-p-27219226b/) para nos conectarmos e conferir alguns dos desafios que participei (especialmente de Azure), que não estão todos documentados aqui no GitHub.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🚀 Tecnologias e Ferramentas
+
+- **Linguagens conhecidas e utilizadas no meu ___GitHub___:** Python, JavaScript, TypeScript, HTML, CSS, Java.
+- **Frameworks conhecidos e utilizados no meu ___GitHub___:** Angular, Bootstrap, SpringBoot.
+- **Cloud:** Microsoft Azure, com foco em serviços de Inteligência Artificial.
+
+---
+
+### 📚 Projetos em destaque
+
+🌟 Aqui estão alguns dos meus projetos favoritos:
+- [Subindo uma aplicação Simples no AKS (e descrevendo o processo)](https://github.com/Pedro-Jordao/Subindo-uma-aplicacao-simples-no-AKS) — Uma das minhas primeiras experiências com o AKS
+- [Angular-Blog-Animes](https://github.com/Pedro-Jordao/angular-blog) — Um projetinho desenvolvido com Angular e componentização durante o processo de um Bootcamp.
+- [Quiz-Seleção-Brasileira](https://github.com/Pedro-Jordao/Voce-conhece-a-selecao-brasileira) — Outro projeto desenvolvido com Angular e componentes, um quiz sobre a Canarinha.
+### 🗒️ Recado: Visite meu [LinkedIn](https://www.linkedin.com/in/pedro-p-27219226b/) para nos conectarmos e conferir alguns dos desafios que participei (especialmente de Azure), que não estão todos documentados aqui no GitHub.
+
+---
+
+# 🤝 Conecte-se comigo
+
+💌 Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/pedro-p-27219226b/), no [Instagram](https://www.instagram.com/o_ph_jordao/) ou enviar um e-mail para [phjordao2522@gmail.com].  
+📌 Costumo compartilhar conteúdos sobre tecnologia, além de desafios que estou participando ou concluindo.
+
+
+
+---
+
+Obrigado por visitar meu perfil! 🚀
+#VAMOSS!!
