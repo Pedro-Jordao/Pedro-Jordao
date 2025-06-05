@@ -1,5 +1,6 @@
-<center> <h1>Bem vindos ao meu GitHub</h1> </center>
+<center> <h1>Bem vindos ao meu GitHub 🎉</h1> </center>
 
+![Luffy says hi](https://gifdb.com/images/featured/luffy-am88vo5oczuk7eu9.gif)
 
   <center> <h2> Sobre mim </h2> </center>
 
